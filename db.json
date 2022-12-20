@@ -13,6 +13,12 @@
     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
     "image": "https://github.com/AjanthaB/json-data/blob/1b714afbdc2870214db076fb2c22169a007dc301/sehas.jpeg?raw=true",
     "name": "My NFT 1"
+  },
+  {
+    "id": 2,
+    "description": "Naruto NFT",
+    "image": "https://github.com/AjanthaB/json-data/blob/1b714afbdc2870214db076fb2c22169a007dc301/naruto.jpeg?raw=true",
+    "name": "NARUTO"
   }
 ]
 
